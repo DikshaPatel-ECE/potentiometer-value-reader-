@@ -1,2 +1,2 @@
 # potentiometer-value-reader-
-po
+potentiometer value reader
